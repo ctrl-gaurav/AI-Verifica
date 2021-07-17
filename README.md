@@ -1,5 +1,8 @@
 # 🖼️AI-Verifica
 
+<img src="https://cdn.discordapp.com/attachments/865161317751717899/865161405442686976/Rectangle-1.png" alt="Smiley face" width="42" height="42" style="float:left">
+<img src="https://cdn.discordapp.com/attachments/865161317751717899/865161402167066634/Rectangle.png" alt="Smiley face" width="42" height="42" style="float:left">
+
 ## 📢Providing solutions to modern day tech problems, one image at a time.
 
 ## 🤔Need for our product:
