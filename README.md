@@ -4,7 +4,8 @@
 <img src="https://cdn.discordapp.com/attachments/865161317751717899/865161402167066634/Rectangle.png" alt="Smiley face" width="320" height="320" style="float:left">
 <img src="https://cdn.discordapp.com/attachments/865161317751717899/866035051240882266/unknown.png" alt="Smiley face" width="320" height="320" style="float:left">
 <img src="https://cdn.discordapp.com/attachments/865161317751717899/866035131478835260/unknown.png" alt="Smiley face" width="320" height="320" style="float:left">
-
+<img src="https://cdn.discordapp.com/attachments/865161317751717899/866035697156620288/unknown.png" alt="Smiley face" width="320" height="320" style="float:left">
+<img src="https://cdn.discordapp.com/attachments/865161317751717899/866035755578949652/unknown.png" alt="Smiley face" width="320" height="320" style="float:left">
 </p>
 
 ## 📢Providing solutions to modern day tech problems, one image at a time.
