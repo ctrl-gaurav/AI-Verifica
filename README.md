@@ -1,7 +1,7 @@
 # 🖼️AI-Verifica
 <p>
-<img src="https://cdn.discordapp.com/attachments/865161317751717899/865161405442686976/Rectangle-1.png" alt="Smiley face" width="80" height="80" style="float:left">
-<img src="https://cdn.discordapp.com/attachments/865161317751717899/865161402167066634/Rectangle.png" alt="Smiley face" width="80" height="80" style="float:left">
+<img src="https://cdn.discordapp.com/attachments/865161317751717899/865161405442686976/Rectangle-1.png" alt="Smiley face" width="320" height="320" style="float:left">
+<img src="https://cdn.discordapp.com/attachments/865161317751717899/865161402167066634/Rectangle.png" alt="Smiley face" width="320" height="320" style="float:left">
 
 </p>
 
