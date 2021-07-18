@@ -1,0 +1,161 @@
+@import url("https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&display=swap");
+* {
+	padding: 0em;
+	margin: 0em;
+	/* background-color: #0a1931; */
+	font-family: "Rajdhani", sans-serif;
+}
+
+body {
+	background-color: #0a1931;
+}
+/* Our team section begins here */
+.title {
+	font-size: 600;
+	color: #ffc947;
+	display: flex;
+	justify-content: center;
+}
+.team_container {
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+}
+.team_card {
+	margin: 1em;
+	border-radius: 5px;
+	background-color: #ffc947;
+	height: 30vh;
+	/* width: 12.5vw; */
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+.team_image {
+	padding: 1em;
+	border-radius: 25px;
+	height: 20vh;
+	width: 10vw;
+	-webkit-border-radius: 25px;
+	-moz-border-radius: 25px;
+	-ms-border-radius: 25px;
+	-o-border-radius: 25px;
+}
+p {
+	padding-left: 1em;
+	font-size: larger;
+	font-weight: 600;
+}
+
+@media (max-width: 800px) {
+	.team_container {
+		display: flex;
+		justify-content: center;
+		flex-direction: column;
+	}
+	.team_card {
+		padding-bottom: 12vh;
+		margin: 2.5em;
+		margin-left: auto;
+		margin-right: auto;
+		border-radius: 5px;
+		background-color: #ffc947;
+		/* height: 40vh; */
+		/*width: 12.5vw;
+		*/
+
+		-moz-border-radius: 5px;
+		-ms-border-radius: 5px;
+		-o-border-radius: 5px;
+		-webkit-border-radius: 5px;
+	}
+	.team_image {
+		/* padding: 1em; */
+		border-radius: 25px;
+		height: 32vh;
+		width: 64vw;
+		-webkit-border-radius: 25px;
+		-moz-border-radius: 25px;
+		-ms-border-radius: 25px;
+		-o-border-radius: 25px;
+	}
+	p {
+		padding-left: 1em;
+		font-size: larger;
+		font-weight: 600;
+	}
+}
+
+/* navbar */
+.navbar {
+	display: flex;
+	flex-direction: row;
+	margin-top: 40px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.brand_logo {
+	color: #ffc947;
+	margin-left: 20px;
+	z-index: 10000;
+}
+
+.link {
+	color: #ffc947;
+	margin-right: 10px;
+	margin-left: auto;
+	font-weight: normal;
+}
+
+/* Upload Section */
+.upload {
+	margin-top: auto;
+	height: 60%;
+	width: 60%;
+}
+
+.bubbles_container {
+	height: fit-content;
+	margin-top: -75px;
+	margin-bottom: -10%;
+}
+
+.bubbles_container .process {
+	margin-left: -55%;
+	margin-top: -70%;
+	margin-bottom: 40%;
+	height: 20%;
+	width: 15%;
+	z-index: 5000;
+	cursor: pointer;
+}
+
+.bubbles_container .bubbles {
+	height: 10%;
+	width: 65%;
+	z-index: 1;
+}
+
+/* Our Team section ends here */
+
+.footer_container {
+	margin-top: 30vh;
+	padding: 0px;
+	background-color: #ffc947;
+	border-radius: 10px 10px 0px 0px;
+	display: flex;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+	justify-content: center;
+	-webkit-border-radius: 10px 10px 0px 0px;
+	-moz-border-radius: 10px 10px 0px 0px;
+	-ms-border-radius: 10px 10px 0px 0px;
+	-o-border-radius: 10px 10px 0px 0px;
+}
+@media (max-width: 800px) {
+	.footer_container {
+		margin-top: 0vh;
+	}
+}
