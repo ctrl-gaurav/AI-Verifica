@@ -2,10 +2,10 @@
 <p>
 <img src="https://cdn.discordapp.com/attachments/865161317751717899/865161405442686976/Rectangle-1.png" alt="Smiley face" width="320" height="320" style="float:left">
 <img src="https://cdn.discordapp.com/attachments/865161317751717899/865161402167066634/Rectangle.png" alt="Smiley face" width="320" height="320" style="float:left">
-<img src="https://cdn.discordapp.com/attachments/865161317751717899/866035051240882266/unknown.png" alt="Smiley face" width="320" height="320" style="float:left">
-<img src="https://cdn.discordapp.com/attachments/865161317751717899/866035131478835260/unknown.png" alt="Smiley face" width="320" height="320" style="float:left">
-<img src="https://cdn.discordapp.com/attachments/865161317751717899/866035697156620288/unknown.png" alt="Smiley face" width="320" height="320" style="float:left">
-<img src="https://cdn.discordapp.com/attachments/865161317751717899/866035755578949652/unknown.png" alt="Smiley face" width="320" height="320" style="float:left">
+<img src="https://cdn.discordapp.com/attachments/866182164110770176/866186625451950111/Screenshot_388.png" alt="Smiley face" width="620" height="320" style="float:left">
+<img src="https://cdn.discordapp.com/attachments/866182164110770176/866187913539485696/Screenshot_389.png" alt="Smiley face" width="620" height="320" style="float:left">
+<img src="https://cdn.discordapp.com/attachments/866182164110770176/866190094313848842/Screenshot_392.png" alt="Smiley face" width="320" height="320" style="float:left">
+<img src="https://cdn.discordapp.com/attachments/866182164110770176/866190729427419136/Screenshot_394.png" alt="Smiley face" width="320" height="320" style="float:left">
 </p>
 
 ## 📢Providing solutions to modern day tech problems, one image at a time.
@@ -67,7 +67,7 @@ Video rendering was taking a long time as the PC kept crashing again and again, 
 - GitHub
 
 
-## Future scope and enhancements:
+## 🚩Future scope and enhancements:
 We believe the scope in this field, in this age is infinite. From governments to large scale organizations, every organization is moving to facial recognition.
 
 
@@ -75,3 +75,8 @@ In India, the Aadhaar project is the largest biometric database in the world, wi
 This shows the constant need for improving the efficiency and security of the facial recognition system. 
 To conclude, our product is built keeping in mind the current day hurdles. The current implementation is already efficient, with numerous possibilities for development in the future according to the business needs.
 
+## 👏Our Team 
+
+<p>
+<img src="https://cdn.discordapp.com/attachments/866182164110770176/866202327660756992/Screenshot_396.png" alt="Smiley face" width="800" height="320" style="float:left">
+</p>
