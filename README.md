@@ -29,11 +29,20 @@ Detection of blurry images, detection of sunglasses and detecting the number of 
 ## 🧑‍🏫The problems it will solve:
 - Identity Authentication, used across different industries for ensuring safety and authenticity of the users.  
 - Image Verification 
-- Fixes blurry images
+- Detects blurry images.
 - Displays the number of faces in an image
-- Face mask detection for Covid safety protocols
-- Sunglass detection
-- Overall fitment score
+- It detects if there are any obstructions in the image, like face masks, sunglasses in image, hands covering the face.
+- Overall acceptance score of photo is determined
+
+## 🌄Challenges we ran into:
+
+The extra feature of detection of photoshopped and original Picture which we tried implementing was giving only 50 % accuracy. So researching those tools took a lot of time.
+Since we have built the image detection models from scratch, finding and cleaning the image datasets was a difficult task.
+Incorporating the flask api and react front - end connection was a tumultuous task as we had never done this before.
+Front-end side there was a phantom image phenomenon, debugging and figuring this out took a lot of time.
+Video rendering was taking a long time as the PC kept crashing again and again, since no SSD.
+
+
 
 ## 🖥️👨‍💻Technologies we used:
 
@@ -56,4 +65,13 @@ Detection of blurry images, detection of sunglasses and detecting the number of 
 - Heroku
 - Canva
 - GitHub
+
+
+## Future scope and enhancements:
+We believe the scope in this field, in this age is infinite. From governments to large scale organizations, every organization is moving to facial recognition.
+
+
+In India, the Aadhaar project is the largest biometric database in the world, with 1.29 billion residents as of the end of March 2021. India could also roll out the world's most extensive face recognition system in 2021 for its implementation.
+This shows the constant need for improving the efficiency and security of the facial recognition system. 
+To conclude, our product is built keeping in mind the current day hurdles. The current implementation is already efficient, with numerous possibilities for development in the future according to the business needs.
 
