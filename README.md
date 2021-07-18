@@ -23,7 +23,7 @@ We also have features such as-
 Face mask detection to enforce safety protocols to be followed in the pandemic. 
 Detection of blurry images, detection of sunglasses and detecting the number of people in an image. These features are useful for ensuring that proper images are being submitted by the user.
 
-<h3>Better UI</h3> design Our product is built with the intention of making the user’s experience easier and secure.
+<h3>Better UI design </h3> Our product is built with the intention of making the user’s experience easier and secure.
 
 
 ## 🧑‍🏫The problems it will solve:
