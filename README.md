@@ -10,7 +10,21 @@
 
 ## 📢Providing solutions to modern day tech problems, one image at a time.
 
-## 🤔Need for our product:
+## 🤔Product Description:
+
+
+We have built a scalable enterprise level solution that will help the computer identify if the image uploaded is acceptable in important documents, like PAN card and Voter IDs, this will reduce the need for manual labor and people chasing the government officers and bankers to change minor details sometimes leading to repeating the entire process multiple times.
+
+
+We have multiple features implemented in our robust product.
+Facial recognition and verification, the key features of our product, will be used to recognize and verify your facial images to enable extremely fast and secure signing in and verification process. 
+
+We also have features such as- 
+Face mask detection to enforce safety protocols to be followed in the pandemic. 
+Detection of blurry images, detection of sunglasses and detecting the number of people in an image. These features are useful for ensuring that proper images are being submitted by the user.
+
+<h3>Better UI</h3> design Our product is built with the intention of making the user’s experience easier and secure.
+
 
 ## 🧑‍🏫The problems it will solve:
 - Identity Authentication, used across different industries for ensuring safety and authenticity of the users.  
