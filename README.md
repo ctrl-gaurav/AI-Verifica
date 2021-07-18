@@ -4,8 +4,8 @@
 <img src="https://cdn.discordapp.com/attachments/865161317751717899/865161402167066634/Rectangle.png" alt="Smiley face" width="320" height="320" style="float:left">
 <img src="https://cdn.discordapp.com/attachments/866182164110770176/866186625451950111/Screenshot_388.png" alt="Smiley face" width="620" height="320" style="float:left">
 <img src="https://cdn.discordapp.com/attachments/866182164110770176/866187913539485696/Screenshot_389.png" alt="Smiley face" width="620" height="320" style="float:left">
-<img src="https://cdn.discordapp.com/attachments/866182164110770176/866190094313848842/Screenshot_392.png" alt="Smiley face" width="320" height="320" style="float:left">
-<img src="https://cdn.discordapp.com/attachments/866182164110770176/866190729427419136/Screenshot_394.png" alt="Smiley face" width="320" height="320" style="float:left">
+<img src="https://cdn.discordapp.com/attachments/866182164110770176/866190094313848842/Screenshot_392.png" alt="Smiley face" width="620" height="320" style="float:left">
+<img src="https://cdn.discordapp.com/attachments/866182164110770176/866190729427419136/Screenshot_394.png" alt="Smiley face" width="620" height="320" style="float:left">
 </p>
 
 ## 📢Providing solutions to modern day tech problems, one image at a time.
@@ -78,5 +78,5 @@ To conclude, our product is built keeping in mind the current day hurdles. The c
 ## 👏Our Team 
 
 <p>
-<img src="https://cdn.discordapp.com/attachments/866182164110770176/866202327660756992/Screenshot_396.png" alt="Smiley face" width="800" height="320" style="float:left">
+<img src="https://cdn.discordapp.com/attachments/866182164110770176/866202327660756992/Screenshot_396.png" alt="Smiley face" width="660" height="320" style="float:left">
 </p>
