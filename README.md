@@ -78,5 +78,5 @@ To conclude, our product is built keeping in mind the current day hurdles. The c
 ## 👏Our Team 
 
 <p>
-<img src="https://cdn.discordapp.com/attachments/866182164110770176/866202327660756992/Screenshot_396.png" alt="Smiley face" width="660" height="320" style="float:left">
+<img src="https://cdn.discordapp.com/attachments/866182164110770176/866202327660756992/Screenshot_396.png" alt="Smiley face" width="620" height="320" style="float:left">
 </p>
