@@ -34,7 +34,7 @@ class faces():
         if c>1:
             return "Sorry Your Photo cannot be accepted :(  There are " + str(c) + " Faces detected in your uploaded picture"
         else:
-            return "Tadaa ! Your Photo Has Been Accepted with acceptance score of 93% :)"
+            return "Tadaa ! Your Photo Has Been Accepted"
 
 
 
